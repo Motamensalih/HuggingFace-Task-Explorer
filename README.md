@@ -24,8 +24,8 @@ This is a Streamlit-based application that provides an interactive interface for
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Motamensalih/HuggingFace-Task-Explorer.git
+   cd HuggingFace-Task-Explorer
    ```
 
 2. Create and activate a virtual environment:
