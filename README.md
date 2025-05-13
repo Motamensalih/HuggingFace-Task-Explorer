@@ -87,6 +87,7 @@ pip install transformers streamlit Pillow matplotlib torch inflect
 * Support for Image Segmentation and Text Generation.
 * Include more tasks - speech to text and text to speech.
 * Creating interactions between different tasks - combining CV models with text-to-speech models to help visually-impaired people to understand the content of the images.
+* Add more options to control the response of the models.
 
 ## License
 
